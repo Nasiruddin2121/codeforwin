@@ -1,6 +1,25 @@
 # Fundamnetals Question: 
 Q-1 : Write a C program to perform input/output of all basic data types.<br />
-Q-2 : Write a C program to enter two numbers and find their sum.<br />
+    Input : <br /><br />
+
+    Enter a character: C <br />
+    Enter a signed short value: -32768 <br />
+
+    Output : <br />
+
+    You entered character: 'C' <br />
+    You entered signed short: -32768 <br />
+
+Q-2 : Write a C program to enter two numbers and find their sum.<br /> <br />
+Write a C program to input two numbers from user and calculate their sum. C program to add two numbers and display their sum as output. How to add two numbers in C programming. <br />
+
+    Example <br />
+    Input<br />
+    Input first number: 20<br />
+    Input second number: 10<br />
+    Output<br />
+    Sum = 30<br />
+    
 Q-3 : Write a C program to enter two numbers and perform all arithmetic operations.<br />
 Q-4 : Write a C program to enter length and breadth of a rectangle and find its perimeter.<br />
 Q-5 : Write a C program to enter length and breadth of a rectangle and find its area.<br />
