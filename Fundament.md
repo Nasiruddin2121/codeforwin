@@ -1,6 +1,10 @@
 # Fundamnetals Question: 
 Q-1 : Write a C program to perform input/output of all basic data types.<br />
-    Input : <br /><br />
+Write a C program to demonstrate input and output of all basic and derived types. How to use scanf() and printf() function perform input and output on primitive types in C programming.<br />
+
+
+    Example
+    Input : 
 
     Enter a character: C 
     Enter a signed short value: -32768 
