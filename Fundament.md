@@ -25,7 +25,32 @@ Write a C program to input two numbers from user and calculate their sum. C prog
     Sum = 30
 
 Q-3 : Write a C program to enter two numbers and perform all arithmetic operations.<br />
+Write a C program to input two numbers and perform all arithmetic operations. How to perform all arithmetic operation between two numbers in C programming. C program to find sum, difference, product, quotient and modulus of two given numbers.<br />
+
+    Example
+    Input
+    First number: 10
+    Second number: 5
+    Output
+
+    Sum = 15
+    Difference = 5
+    Product = 50
+    Quotient = 2
+    Modulus = 0
 Q-4 : Write a C program to enter length and breadth of a rectangle and find its perimeter.<br />
+    Write a C program to input length and width of a rectangle and calculate perimeter of the rectangle. How to find perimeter of a rectangle in C programming. Logic to find the perimeter of a rectangle if length and width are given in C programming.<br />
+
+    Example
+    Input
+    
+    Enter length: 5
+    Enter width: 10
+
+    Output
+
+    Perimeter of rectangle = 30 units
+
 Q-5 : Write a C program to enter length and breadth of a rectangle and find its area.<br />
 Q-6 : Write a C program to enter radius of a circle and find its diameter, circumference and area.<br />
 Q-7 : Write a C program to enter length in centimeter and convert it into meter and kilometer.<br />
