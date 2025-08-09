@@ -1,4 +1,4 @@
-# My Project
+# Fundamnetals Question: 
 Q-1 : Write a C program to perform input/output of all basic data types.<br />
 Q-2 : Write a C program to enter two numbers and find their sum.<br />
 Q-3 : Write a C program to enter two numbers and perform all arithmetic operations.<br />
