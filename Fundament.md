@@ -62,7 +62,27 @@ Q-5 : Write a C program to enter length and breadth of a rectangle and find its 
 
     Area of rectangle = 50 sq. units
 Q-6 : Write a C program to enter radius of a circle and find its diameter, circumference and area.<br />
+    Write a C program to input radius of a circle from user and find diameter, circumference and area of the circle. How to calculate diameter, circumference and area of a circle whose radius is given by user in C programming. Logic to find diameter, circumference and area of a circle in C.<br />
+
+    Example
+    Input
+    Enter radius: 10
+    Output
+
+    Diameter = 20 units
+    Circumference = 62.79 units
+    Area = 314 sq. units
+
 Q-7 : Write a C program to enter length in centimeter and convert it into meter and kilometer.<br />
+    Write a C program to input length in centimeter and convert it to meter and kilometer. How to convert length from centimeter to meter and kilometer in C programming. Length conversion program in C from centimeter to meter and centimeter to kilometer.<br />
+
+    Example
+    Input
+    Enter length in centimeter = 1000
+    Output
+
+    Length in meter = 10 m
+    Length in kilometer = 0.01 km
 Q-8 : Write a C program to enter temperature in Celsius and convert it into Fahrenheit.<br />
 Q-9 : Write a C program to enter temperature in Fahrenheit and convert to Celsius<br />
 Q-10 : Write a C program to convert days into years, weeks and days.<br />
